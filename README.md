@@ -19,9 +19,3 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)  
 ![DSA](https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode)  
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
