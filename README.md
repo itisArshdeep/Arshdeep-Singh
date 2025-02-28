@@ -8,7 +8,7 @@
 - 🎓 **B.Tech in Information Technology**  
 - 🔥 Interested in **Full-Stack Development**  
 - 💻 Practicing **DSA on LeetCode, CodeChef & GFG**  
-- 🎯 Aiming for a **₹25 LPA remote job**  
+
 
 ## 🚀 Tech Stack  
 
